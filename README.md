@@ -18,9 +18,6 @@ This project explores **customer churn behavior** to help businesses improve cus
 - Average monthly charges vs churn status
 - Filterable by gender, tenure, and internet service
 
-## 📷 Screenshots
-*(Insert images of your dashboard here)*
-
 ## 📂 Dataset
 Public dataset based on simulated telecom customer data.
 
